@@ -1,4 +1,11 @@
-# Hack-The-League: VConferencing
+# Hack-The-League: Open Innovation
+
+<br>
+<br>
+
+<div align="center">
+  <h1> VConferencing </h1>
+ </div>
 
 An online technology that allows users in different locations to hold face-to-face meetings without having to move to a single location together. Presenting you the Video Conference website where we can be close to our near and dear ones and also with our colleagues and work life, through a screen.
 
